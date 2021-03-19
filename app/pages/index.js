@@ -9,57 +9,33 @@ import Login from '../src/Components/SectionLogin';
 import img from '../public/assets/undraw_Ride_a_bicycle_2yok.png';
 
 const Main = styled.main`
-  /* display: flex;
-  height: 85vh;
-  
-  justify-content: space-between;
-  align-items: center; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 0px 8%;
-    /* border: 1px solid red; */
   @media screen and (max-width: 900px) {
-    /* justify-content: center;
-    align-items: center;
-    text-align:left;
-    height: 80vh;
-    padding: 0 1rem;
-    margin-top: -10vh; */
+    margin-top:-1rem;
   }
 `
 
 const SectionHome = styled.section`
   display: flex;
-    border: 1px solid yellow;
-    /* flex-direction: column; */
     justify-content: space-between;
     align-items: center;
-    /* height: 50vh; */
     height: 84vh;
-    /* margin-top: -3rem; */
-
     .div-title-home {
-      /* background-color: red; */
       display: flex;
-    /* border: 1px solid yellow; */
-    flex-direction: column;
-    justify-content: space-between;
-    /* height: 50vh; */
-    /* height: 50vh;
-    margin-top: -3rem; */
+      flex-direction: column;
+      justify-content: space-between;
     }
-
     h2 {
       font-size: 55px;
       color: var(--title-color);
-
       @media screen and (max-width: 900px) {   
         font-size: 50px;
       }
     }
-    
     p{
       font-size: 18px;
       color: var(--secondary-color);
@@ -71,9 +47,6 @@ const SectionHome = styled.section`
 
 const ImgHome = styled.img`
   width: 50vw;
-  /* margin-right: -30px; */
-  /* border: 1px solid black; */
-
   @media screen and (max-width: 900px) {
     display: none;
   }
