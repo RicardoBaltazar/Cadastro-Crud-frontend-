@@ -1,4 +1,4 @@
-### Landing-Page-BikeApp  
+# Landing-Page-BikeApp  
 Landing page BikeApp feita em NextJS  
   
 ### Tecnologia utilizada:  
