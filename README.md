@@ -7,7 +7,7 @@ Landing page BikeApp feita em NextJS
 ### screenshot  
 <img src='https://user-images.githubusercontent.com/56805229/111813477-038f1200-88b8-11eb-88d0-d18cd5232ce4.png' width='500px'>  
   
-### Domenstração do Projeto  
+### Demontração do Projeto  
 [Link](https://landing-page-bikeapp.vercel.app/)  
   
 ### Instalando e iniciando o projeto  
